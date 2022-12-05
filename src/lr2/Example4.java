@@ -9,7 +9,7 @@ public class Example4 {
         System.out.println("Ведите число ");
         int a = in.nextInt();
 
-        if(a > 5 && a <10){
+        if(a >= 5 && a <= 10){
             System.out.println("Программа выполняется");
         } else{
             System.out.println("Условие ошибочно");
