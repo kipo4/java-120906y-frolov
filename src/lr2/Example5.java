@@ -10,5 +10,5 @@ public class Example5 {
         int a = in.nextInt();
 
         System.out.println("Программа выполняется: " + (a/1000)%10);
-        }
     }
+}
